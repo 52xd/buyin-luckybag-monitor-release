@@ -1,5 +1,5 @@
-﻿# v1.8.3
+﻿# v1.8.4
 
-- `buyin-luckybag-monitor-1.8.3.zip`
+- `buyin-luckybag-monitor-1.8.4.zip`
 - 源码仓库：`https://github.com/52xd/buyin-luckybag-monitor`
-- 本版本改为仅从 Tags 检查最新版本，修复停止采集时最后一批奖品漏入库，并优化奖品总库卡片的复制、标签和图片展示。
+- 本版本重构奖品卡片为上图下文布局，统一奖品 ID 与店铺 ID 图标，新增二维码详情入口，并延长停采后的最终数据补录窗口。
